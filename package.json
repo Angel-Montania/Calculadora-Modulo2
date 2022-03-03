@@ -1,0 +1,11 @@
+{
+  "name": "calculadora-formar",
+  "version": "1.0.0",
+  "description": "Ejercicio de calculadora formar",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel Guillermo Montaña",
+  "license": "ISC"
+}
